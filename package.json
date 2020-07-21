@@ -19,7 +19,7 @@
     "expo-image-picker": "^8.0.2",
     "firebase": "^7.14.5",
     "geofirestore": "^3.4.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "native": "^0.3.3",
     "native-base": "^2.13.12",
     "react": "~16.9.0",
